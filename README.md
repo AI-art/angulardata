@@ -6,7 +6,7 @@ LearningDataAnalysis
 [ I' am learning this very good](http://www.angular.nl)
 
 
-### Data Science Specialization 
+## Data Science Specialization 
 
 * Uses R 
 * Nine courses 
